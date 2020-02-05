@@ -33,6 +33,10 @@ li {
   margin: 10px;
 }
 
+ul {
+    padding-inline-start: 0px;
+}
+
 .blue-button {
   background-color: #96FF86;
   color: white;
